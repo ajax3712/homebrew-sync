@@ -34,7 +34,6 @@ brew mariadb
 brew closure-compiler
 brew gradle
 brew mcrypt
-brew autoconf
 
 tap rcmdnk/file
 brew brew-file
