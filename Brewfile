@@ -1,6 +1,29 @@
 
 # tap repositories and their packages
 
+tap homebrew/core
+brew ant
+brew bash-completion
+brew brew-cask-completion
+brew closure-compiler
+brew freetype
+brew gettext
+brew gradle
+brew highlight
+brew jpeg
+brew libxml2
+brew mariadb
+brew mas
+brew mcrypt
+brew mongodb
+brew nginx
+brew node
+brew readline
+brew unar
+brew unixodbc
+brew wakeonlan
+brew yuicompressor
+
 tap caskroom/cask
 cask betterzipql
 cask qlcolorcode
@@ -11,29 +34,6 @@ cask qlstephen
 cask quicklook-csv
 cask quicklook-json
 cask webpquicklook
-
-tap homebrew/core
-brew libxml2
-brew mas
-brew jpeg
-brew ant
-brew wakeonlan
-brew gettext
-brew yuicompressor
-brew node
-brew unar
-brew freetype
-brew mongodb
-brew unixodbc
-brew bash-completion
-brew nginx
-brew brew-cask-completion
-brew highlight
-brew readline
-brew mariadb
-brew closure-compiler
-brew gradle
-brew mcrypt
 
 tap rcmdnk/file
 brew brew-file
