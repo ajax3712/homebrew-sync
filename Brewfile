@@ -18,6 +18,7 @@ brew mcrypt
 brew mongodb
 brew nginx
 brew node
+brew openssl@1.1
 brew readline
 brew unar
 brew unixodbc
