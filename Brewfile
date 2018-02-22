@@ -3,11 +3,15 @@
 
 tap homebrew/core
 brew ant
+brew autoconf
 brew bash-completion
+brew boost
 brew brew-cask-completion
 brew closure-compiler
+brew cmake
 brew freetype
 brew gettext
+brew go
 brew gradle
 brew highlight
 brew jpeg
@@ -20,21 +24,25 @@ brew nginx
 brew node
 brew openssl@1.1
 brew readline
+brew scons
+brew sphinx-doc
 brew unar
 brew unixodbc
 brew wakeonlan
 brew yuicompressor
 
 tap caskroom/cask
-cask betterzipql
-cask qlcolorcode
-cask qlimagesize
 cask qlmarkdown
 cask qlprettypatch
-cask qlstephen
-cask quicklook-csv
 cask quicklook-json
+cask qlstephen
 cask webpquicklook
+cask qlcolorcode
+cask qlimagesize
+cask quicklook-csv
 
 tap rcmdnk/file
 brew brew-file
+
+# Cask applications
+cask betterzipql
